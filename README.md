@@ -30,9 +30,9 @@
 ```text
 I've watched 27 movies and 1024 episodes of 24 shows.
 My favorite 3 genres are:
-drama                     ████▍░░░░░░░  21.0%
-science-fiction           ██▍░░░░░░░░░  11.9%
-comedy                    ██▏░░░░░░░░░  10.5%
+drama                     ████ ░░░░░░░  21.0%
+science-fiction           ██ ░░░░░░░░░  11.9%
+comedy                    ██ ░░░░░░░░░  10.5%
 ```
 
 </td>
