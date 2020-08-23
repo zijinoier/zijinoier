@@ -19,6 +19,8 @@
 [![](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=ffffff)](https://hexo.io/)
 
 
+<script src="https://gist.github.com/zijinoier/a1c59a5bd31a1a083957758ff9fb931d.js"></script>
+
 
 <table>
 <tr>
