@@ -25,7 +25,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### <a href="https://gist.github.com/zijinoier/a1c59a5bd31a1a083957758ff9fb931d" target="_blank">📊 My movie + shows statistics</a>
+#### <a href="https://gist.github.com/zijinoier/8ad39c054e1d89b3409295c25cc216f1" target="_blank">📊 My movie + shows statistics</a>
 
 ```text
 I've watched 27 movies and 1024 episodes of 24 shows.
