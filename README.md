@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**zijinoier/zijinoier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Good day, Universe 👋
 
-Here are some ideas to get you started:
+#### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I’m currently studying at [Zhejiang Universiy](https://www.zju.edu.cn) as a graduate student, major at robotics.
+- 🔬 My current research interest including multi-agent system, path/motion planning.
+- 📝 More about me please check my [CV](https://wenlc.cn/cv). 
+
+#### Platform&Tools
+
+
+[![](https://img.shields.io/badge/Ubuntu-18.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
+[![](https://img.shields.io/badge/-ROS-A8B9CC?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAA1CAMAAAAzilRrAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAC7lBMVEUAAAAAAAAnLk0iMEsjLkokLkkkL0kjL0kkLUoiLkogLU1AQEAkLkkjLUkiL0kjLkokLUoiL0siLUoiLEorK0ArK1UiLkkkL0okLkojL0ojLkkhLE4mL0wjLkojLkokLkszMzMhLksjLkojLkolLUouLkYjLkojLUkkLUsjL0okL0omLUskL0kjLkkjLkoiLksiLUkkJEkhLEojLkojLkojLkoiLkokLEkgMEgjLksjLUojLkojL0wiLkojLkoAAIAiL0oiLkoAVVUiM0QhMUojLksjLkojLkojLUoaM00jLUkjLkojLkskLUkjLkojLkohK0wkLkkjLkoiLkojL0ojLkojLkojLEYlMEojLkoiLkoiLUojLkkkLUoiK00jLkokLkkjLkokLUojLkojL0sjLkkjLkojLkYjLkoiLkojLkonJ04jLkkiL0gjLkojLkojLksiLUojLUkjLkscK0clLkojLkkjLUojL0skLkskL0sjLksjLkkjL0oiLUsjLUsiLkoiLkokLk0jL0sfM0ckLUwjLUojLksiL0ohLEgiLkgjLkokLkojLUojLksoKFEjLkomM00jLkokL0kgIEAjL0kgMFAjK0cjLkojLkojLkoiMEwjLUkjLkkkLkoiLUsjLkojLkoiLUojLkojLkojLkokMEwjLUsjLkkjLkkcOVUjLkojLkskLkojLkojLUkiL0okN0kjLkoiMEgiLkokLkoiL0sjL0ojLkohL0wjLEsiL0ojMEkiLUgkLUkeLUsnMU4jLkokLkohLkgjLkojLUkiLUojLkojLkkkLkokLkkkMUkjL0ojLkoiLUokL0ckL0oiLkojLUsjLUojLksjL0siL0ojLkokLkskLUojLkskLkokL0siLkojLkojLkojLkojLksjLkojL0kjLUojLkojLUokLkkkL0skLUsjLkojLkojLkojLksjLkokL0ojLUkjL0ojLkkjLUogK0olLEsjLkokLksjLkr///88T4W1AAAA+HRSTlMAASFLbnqIfXFTKAQcUGJ1h35aNAwGabrXxYQXG8e3YwU9odI+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&logoColor=ffffff)](https://ros.org/)
+[![](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=ffffff)](https://hexo.io/)
+
+
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- waka-box start -->
+<!-- waka-box end -->
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+<!-- steam-box end -->
+
+</td>
+</tr>
+</table>
