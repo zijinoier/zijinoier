@@ -29,11 +29,11 @@
 #### <a href="https://gist.github.com/zijinoier/8ad39c054e1d89b3409295c25cc216f1" target="_blank">📊 My movie + shows statistics</a>
 
 ```text
-I've watched 27 movies and 1024 episodes of 24 shows.
+I've watched 30 movies and 1024 episodes of 24 shows.
 My favorite 3 genres are:
-drama                     ████ ░░░░░░░  21.0%
-science-fiction           ██ ░░░░░░░░░  11.9%
-comedy                    ██ ░░░░░░░░░  10.5%
+drama                     ████▏░░░░░░░░░░░░  20.0%
+science-fiction           ██▌░░░░░░░░░░░░░░░  12.3%
+fantasy                   ██▎░░░░░░░░░░░░░░  11.0%
 ```
 
 </td>
