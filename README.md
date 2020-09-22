@@ -43,7 +43,7 @@ fantasy                   ██▎░░░░░░░░░░░░░░  1
 #### <a href="https://gist.github.com/zijinoier/a1c59a5bd31a1a083957758ff9fb931d" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🚓 Grand Theft Auto V               🕘 93 hrs 37 mins
-🎮 The Witcher 3: Wild Hunt         🕘 53 hrs 36 mins
+🎮 The Witcher 3: Wild Hunt         🕘 59 hrs 27 mins
 🎮 Dota 2                           🕘 39 hrs 4 mins
 🌏 Sid Meier's Civilization V       🕘 29 hrs 14 mins
 🎮 Clicker Heroes                   🕘 27 hrs 11 mins
