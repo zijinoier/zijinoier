@@ -29,11 +29,11 @@
 #### <a href="https://gist.github.com/zijinoier/8ad39c054e1d89b3409295c25cc216f1" target="_blank">📊 My movie + shows statistics</a>
 
 ```text
-I've watched 30 movies and 1024 episodes of 24 shows.
+I've watched 52 movies and 942 episodes of 31 shows.
 My favorite 3 genres are:
-drama                     ████▏░░░░░░░░░░░░  20.0%
-science-fiction           ██▌░░░░░░░░░░░░░░░  12.3%
-fantasy                   ██▎░░░░░░░░░░░░░░  11.0%
+drama                     ████▏░░░░░░░░░░  19.9%
+comedy                    ██▍░░░░░░░░░░░░  11.4%
+science-fiction           ██▏░░░░░░░░░░░░  10.2%
 ```
 
 </td>
@@ -43,7 +43,7 @@ fantasy                   ██▎░░░░░░░░░░░░░░  1
 #### <a href="https://gist.github.com/zijinoier/a1c59a5bd31a1a083957758ff9fb931d" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🚓 Grand Theft Auto V               🕘 93 hrs 37 mins
-🎮 The Witcher 3: Wild Hunt         🕘 59 hrs 27 mins
+🎮 The Witcher 3: Wild Hunt         🕘 66 hrs 33 mins
 🎮 Dota 2                           🕘 39 hrs 4 mins
 🌏 Sid Meier's Civilization V       🕘 29 hrs 14 mins
 🎮 Clicker Heroes                   🕘 27 hrs 11 mins
