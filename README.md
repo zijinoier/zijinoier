@@ -3,7 +3,7 @@
 
 #### About me
 
-- 👨‍🎓 I’m currently studying at [Zhejiang Universiy](https://www.zju.edu.cn) as a graduate student, major at robotics.
+- 👨‍🎓 I’m currently studying at [Zhejiang Universiy](https://www.zju.edu.cn/english/) as a graduate student, major at robotics.
 - 🔬 My current research interest including multi-agent system, path/motion planning.
 - 📝 More about me please check my [CV](https://wenlc.cn/cv). 
 
