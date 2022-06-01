@@ -3,8 +3,8 @@
 
 #### About me
 
-- 👨‍🎓 I have studied at [Zhejiang Universiy](https://www.zju.edu.cn/english/) as a graduate student, major at robotics.
-- 🔬 My current research interest including multi-agent system, path/motion planning.
+- 👨‍🎓 I received an MSc from [Zhejiang Universiy](https://www.zju.edu.cn/english/), major at robotics.
+- 🔬 My current research interest including autonomous driving, multi-agent system,and path/motion planning.
 - 📝 More about me please check my [CV](https://wenlc.cn/cv). 
 
 #### Platform&Tools
