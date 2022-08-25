@@ -10,7 +10,7 @@
 #### Platform&Tools
 
 
-[![](https://img.shields.io/badge/Ubuntu-18.04%20LTS-E95420?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)]()
 
