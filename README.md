@@ -4,8 +4,8 @@
 #### About me
 
 - 👨‍🎓 I received an M.S. degree from [Zhejiang Universiy](https://www.zju.edu.cn/english/), major at robotics.
-- 🔬 My current research interest including autonomous driving, multi-agent system, and path/motion planning.
-- 📝 More about me please check my [CV](https://wenlc.cn/cv). 
+- 🔬 My current research interest including autonomous driving, multi-agent system, and emobodied AI.
+- 📝 More about me please check my [website](https://wenlc.cn/). 
 
 #### Platform&Tools
 
