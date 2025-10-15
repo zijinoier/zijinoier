@@ -3,16 +3,18 @@
 
 #### About me
 
+- 🔬 An enuthisastic reaearcher, focusing on building LLM agents towards AGI.
 - 👨‍🎓 I received an M.S. degree from [Zhejiang Universiy](https://www.zju.edu.cn/english/), major at robotics.
-- 🔬 My current research interest including autonomous driving, multi-agent system, and emobodied AI.
 - 📝 More about me please check my [website](https://wenlc.cn/). 
 
 #### Platform&Tools
 
-
-[![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=F0F0F0&style=for-the-badge)](https://www.apple.com/os/macos/)
 [![](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)]()
+[![](https://img.shields.io/badge/Macbook-pro%2014%20-007DB8?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-pro/)
+
+[//]:[![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
+
 
 [![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://isocpp.org/)
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
